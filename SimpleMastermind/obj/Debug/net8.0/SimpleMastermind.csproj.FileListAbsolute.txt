@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\SimpleMastermind\SimpleMastermind\bin\Debug\net8.0\SimpleMastermind.exe
+C:\Users\user\source\repos\SimpleMastermind\SimpleMastermind\bin\Debug\net8.0\SimpleMastermind.deps.json
+C:\Users\user\source\repos\SimpleMastermind\SimpleMastermind\bin\Debug\net8.0\SimpleMastermind.runtimeconfig.json
+C:\Users\user\source\repos\SimpleMastermind\SimpleMastermind\bin\Debug\net8.0\SimpleMastermind.dll
+C:\Users\user\source\repos\SimpleMastermind\SimpleMastermind\bin\Debug\net8.0\SimpleMastermind.pdb
+C:\Users\user\source\repos\SimpleMastermind\SimpleMastermind\obj\Debug\net8.0\SimpleMastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SimpleMastermind\SimpleMastermind\obj\Debug\net8.0\SimpleMastermind.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SimpleMastermind\SimpleMastermind\obj\Debug\net8.0\SimpleMastermind.AssemblyInfo.cs
+C:\Users\user\source\repos\SimpleMastermind\SimpleMastermind\obj\Debug\net8.0\SimpleMastermind.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SimpleMastermind\SimpleMastermind\obj\Debug\net8.0\SimpleMastermind.dll
+C:\Users\user\source\repos\SimpleMastermind\SimpleMastermind\obj\Debug\net8.0\refint\SimpleMastermind.dll
+C:\Users\user\source\repos\SimpleMastermind\SimpleMastermind\obj\Debug\net8.0\SimpleMastermind.pdb
+C:\Users\user\source\repos\SimpleMastermind\SimpleMastermind\obj\Debug\net8.0\SimpleMastermind.genruntimeconfig.cache
+C:\Users\user\source\repos\SimpleMastermind\SimpleMastermind\obj\Debug\net8.0\ref\SimpleMastermind.dll

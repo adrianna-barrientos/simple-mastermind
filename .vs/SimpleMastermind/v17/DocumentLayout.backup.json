@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\SimpleMastermind\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A573DE6-F76F-4178-8C82-5B3E89D2977C}|SimpleMastermind\\SimpleMastermind.csproj|c:\\users\\user\\source\\repos\\simplemastermind\\simplemastermind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A573DE6-F76F-4178-8C82-5B3E89D2977C}|SimpleMastermind\\SimpleMastermind.csproj|solutionrelative:simplemastermind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SimpleMastermind\\SimpleMastermind\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleMastermind\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SimpleMastermind\\SimpleMastermind\\Program.cs",
+              "RelativeToolTip": "SimpleMastermind\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwFAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T02:41:52.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
