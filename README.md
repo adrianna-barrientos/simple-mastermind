@@ -1,6 +1,6 @@
 # Simple Mastermind (C# Console App)
 
-This is a small console game I built as part of a coding assessment for Quadax. It’s a basic version of the classic **Mastermind** game, written in C#.
+This is a small console game I built in my free time. It’s a basic version of the classic **Mastermind** game, written in C#.
 
 
 
